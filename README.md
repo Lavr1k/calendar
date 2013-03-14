@@ -1,4 +1,4 @@
 calendar
 ========
 
-calendar // homework
+homework
